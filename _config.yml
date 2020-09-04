@@ -1,6 +1,7 @@
 title: My Test Blog
 author: UniversalBuilder
 email: yannick.krempp@unil.ch
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Thhis is just a test bolg, nothing to see here.
 
